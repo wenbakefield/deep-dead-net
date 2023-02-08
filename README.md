@@ -2,7 +2,7 @@
 
 ![deadthresh](https://user-images.githubusercontent.com/8831999/217459228-16fe8f59-669c-40fa-8f40-dbb70015199e.png)
 
-A web application built in Python/Django for generating music that sounds like the Grateful Dead.
+A web application for generating music that sounds like the Grateful Dead.
 
 [Let's jam!](https://deepdead.net)
 
